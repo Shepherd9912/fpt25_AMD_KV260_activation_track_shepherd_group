@@ -120,8 +120,17 @@ To generate all required data files from scratch, first clone this repository. T
     python3 generate_testbench_data.py --outdir ../
     ```
 
-## 📝 Citation
+## 📝 References
 
-If you find this work useful in your research, please consider citing the associated paper (details to be added).
+If you find this work useful, please consider reviewing the following related literature:
 
+1.  L. Murmu, S. K. Pradhan, and A. Routray, "A resource efficient hardware implementation of sigmoid and softmax activation functions for neural networks," in *2021 Devices for Integrated Circuit (DevIC)*, 2021, pp. 305-309.
+2.  C. Li, Y. Wang, and Y. Han, "A high-accuracy and low-cost hardware implementation for sigmoid function in SNNs," *IEEE Transactions on Circuits and Systems II: Express Briefs*, vol. 68, no. 1, pp. 288-292, Jan. 2021.
+3.  Z. Huang, Z. Zhou, S. Li, and L. Li, "An efficient hardware architecture for sigmoid function and its derivative," *IEEE Transactions on Circuits and Systems II: Express Briefs*, vol. 66, no. 11, pp. 1820-1824, Nov. 2019.
+4.  V. Rayapati and K. R. M, "Efficient implementation of CORDIC based exponential function for deep neural networks on FPGA," *Journal of King Saud University - Computer and Information Sciences*, vol. 34, no. 8, Part B, pp. 6059-6068, 2022.
+5.  J. Park, J. Park, and S. Lee, "A table-based hardware architecture of rectified linear unit and softmax for deep learning," in *2019 International SoC Design Conference (ISOCC)*, 2019, pp. 147-148.
+6.  Y. Tan, Z. Liu, H. Chen, S. Liu, C. Wang, and Y. Wang, "A unified multi-precision arithmetic unit design for neural networks," in *2021 IEEE 32nd International Conference on Application-specific Systems, Architectures and Processors (ASAP)*, 2021, pp. 109-116.
+7.  C. Li, J. Zhu, Y. Wang, Y. Zhang, Y. Han, and X. Li, "FireFly: A high-performance and low-power architecture for spiking neural networks," *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, vol. 40, no. 7, pp. 1432-1445, July 2021.
+
+---
 This project can be found on GitHub at: [https://github.com/Shepherd9912/fpt25_AMD_KV260_activation_track_shepherd_group](https://github.com/Shepherd9912/fpt25_AMD_KV260_activation_track_shepherd_group)
