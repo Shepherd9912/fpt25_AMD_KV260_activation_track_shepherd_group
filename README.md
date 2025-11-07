@@ -16,7 +16,7 @@ Our design, implemented on the **AMD KV260 platform**, is based on an 8-way data
 
 The accelerator achieves the following end-to-end system performance at its peak operational frequency of **250 MHz**. The tensor evaluated is in size of 64x768 (BFloat16).
 
-| Function  | Latency (ms) | Throughput (T/s) | Bandwidth (MB/s) |
+| Function  | Latency (ms) | Throughput (Tensors/s) | Bandwidth (MB/s) |
 | :-------- | :----------- | :--------------- | :--------------- |
 | LayerNorm | **0.8254**   | **1211.53**      | **227.16**       |
 | Softmax   | 0.8447       | 1183.83          | 221.97           |
