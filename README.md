@@ -14,7 +14,7 @@ Our design, implemented on the **AMD KV260 platform**, is based on an 8-way data
 
 ## 🚀 Performance Highlights
 
-The accelerator achieves the following end-to-end system performance at its peak operational frequency of **250 MHz**.
+The accelerator achieves the following end-to-end system performance at its peak operational frequency of **250 MHz**. The tensor evaluated is in size of 64x768 (BFloat16).
 
 | Function  | Latency (ms) | Throughput (T/s) | Bandwidth (MB/s) |
 | :-------- | :----------- | :--------------- | :--------------- |
